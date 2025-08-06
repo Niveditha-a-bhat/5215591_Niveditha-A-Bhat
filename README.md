@@ -8,4 +8,3 @@
 
 
 
-file:///C:/Users/91968/Downloads/Linux%20Commands%20(11).pdf
