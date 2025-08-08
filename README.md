@@ -6,8 +6,9 @@
 
 <img src="https://raw.githubusercontent.com/Niveditha-a-bhat/5215591_Niveditha-A-Bhat/main/SDLC/SDLC%20Certidicate.jpg" alt="SDLC Certificate" width="500"/>
 
+<img src="https://github.com/Niveditha-a-bhat/5215591_Niveditha-A-Bhat/raw/main/C%20Programming/Introduction_to_C.png" width="500"/>
 
-<img src="https://github.com/Niveditha-a-bhat/5215591_Niveditha-A-Bhat/blob/main/C%20Programming/Introduction_to_C.png?raw=true"alt="Intoduction to C" width="500"/>
+<img src="https://github.com/Niveditha-a-bhat/5215591_Niveditha-A-Bhat/blob/main/C%20Programming/Introduction_to_C.png">
 
 
 
